@@ -1,1 +1,1 @@
-App to acquire building materials and tools
+Our application is called ToolsApp. Here users can add, delete, update and watch tools.  And users can sell or rent their tools. And we have function to sort them. Also we used sort functions in order to sort items by ascending and descending order by price. Also admin can control users accounts, by using crud operations.
